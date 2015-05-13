@@ -1,0 +1,9 @@
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\bin\Debug\LayerArchitectureApp.exe.config
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\bin\Debug\LayerArchitectureApp.exe
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\bin\Debug\LayerArchitectureApp.pdb
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\obj\Debug\LayerArchitectureApp.csprojResolveAssemblyReference.cache
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\obj\Debug\LayerArchitectureApp.Properties.Resources.resources
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\obj\Debug\LayerArchitectureApp.csproj.GenerateResource.Cache
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\obj\Debug\LayerArchitectureApp.exe
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\obj\Debug\LayerArchitectureApp.pdb
+F:\ASP.NET\WindowForm\LayerArchitectureApp\LayerArchitectureApp\obj\Debug\LayerArchitectureApp.LayerArchitectureUI.resources
